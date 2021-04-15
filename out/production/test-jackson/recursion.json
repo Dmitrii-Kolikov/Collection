@@ -1,0 +1,11 @@
+{
+  "CATEGORY_NAME": "Фантастика",
+  "countBooks": 0,
+  "books": [
+    {
+      "name": "Книга",
+      "category": "Фантастика"
+    }
+  ],
+  "CATEGORY_ID": 123
+}
