@@ -42,7 +42,7 @@ Jackson - Автоконфигурация для Jackson предоставля
 
 ### @JsonIgnore используется, когда требуется пропустить сериализацию/десириализацию поля Jaca класса.
 
-![Джсон4](https://user-images.githubusercontent.com/74898966/114892775-456b9380-9e37-11eb-8155-a4a10f47d517.png)
+![Джсон4](https://user-images.githubusercontent.com/74898966/114893526-fbcf7880-9e37-11eb-8267-2e9431b5c25a.png))
 
 
 
