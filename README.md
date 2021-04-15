@@ -51,6 +51,8 @@ Jackson - Автоконфигурация для Jackson предоставля
 
 Основные аннотации. Часть 3
 
+![json6](https://user-images.githubusercontent.com/74898966/114907255-178d4b80-9e45-11eb-82d3-10f166b833e1.png)
+
 
 
 
