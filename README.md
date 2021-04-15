@@ -32,9 +32,9 @@ Jackson - Автоконфигурация для Jackson предоставля
 ![Json 2](https://user-images.githubusercontent.com/74898966/114890124-f02e8280-9e34-11eb-82d7-cf8faf656480.png)
 
 Основные аннотации. Часть 1
-@JsonProperty
+### @JsonProperty используется, когда имя поля Java класса не совпадает с именем поля в JSON
 
-![джсон 3](https://user-images.githubusercontent.com/74898966/114892042-9af37080-9e36-11eb-99de-b392991e316c.png)
+![джсон3](https://user-images.githubusercontent.com/74898966/114894233-a6e03200-9e38-11eb-84ba-6287463e6a9e.png)
 
 
 
