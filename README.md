@@ -33,7 +33,7 @@ Jackson - Автоконфигурация для Jackson предоставля
 
 Основные аннотации. Часть 1
 
-https://github.com/Dmitrii-Kolikov/Collection/issues/3#issue-858972694
+![Json 2](https://user-images.githubusercontent.com/74898966/114891482-1ef92880-9e36-11eb-8177-0f3228887f2c.png)
 
 
 
