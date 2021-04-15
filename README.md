@@ -55,6 +55,12 @@ Jackson - Автоконфигурация для Jackson предоставля
 
 
 
+### @JsonManagedReference, @JsonBackReference
+
+![json7](https://user-images.githubusercontent.com/74898966/114908217-14468f80-9e46-11eb-9b80-e8133f1c9c77.png)
+
+
+
 
 
 1) Рассмотрим десериализацию JSON по модели дерева узлов
