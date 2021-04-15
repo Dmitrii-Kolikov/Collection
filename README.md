@@ -6,7 +6,7 @@
     1. [@JsonProperty](#Jackson4)
     2. [@JsonIgnore](#Jackson5)
 4. [Основные аннотации часть 2](#Jackson6)
-5. [Основные аннотации часть 2](#Jackson7) 
+5. [Основные аннотации часть 3](#Jackson7) 
 6. [Конфигурация Jackson](#Jackson8)
 
 
