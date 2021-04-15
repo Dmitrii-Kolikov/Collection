@@ -59,6 +59,10 @@ Jackson - Автоконфигурация для Jackson предоставля
 
 ![json7](https://user-images.githubusercontent.com/74898966/114908217-14468f80-9e46-11eb-9b80-e8133f1c9c77.png)
 
+### @JsonIdentityInfo
+
+![json8](https://user-images.githubusercontent.com/74898966/114908524-625b9300-9e46-11eb-8af2-d0fc357a8a6b.png)
+
 
 
 
